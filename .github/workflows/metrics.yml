@@ -1,7 +1,8 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,7 +19,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
 
           config_timezone: America/Bogota
 
@@ -26,5 +27,3 @@ jobs:
           plugin_languages_limit: 8
 
           plugin_isocalendar: yes
-
-          plugin_achievements: yes
