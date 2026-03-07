@@ -1,42 +1,42 @@
-<h1 align="center">Hi 👋, I'm Alejandro Amu García</h1>
-<h3 align="center">Backend Developer | Systems Engineering Student | DevOps & Distributed Systems Enthusiast</h3>
+<!-- TYPING HEADER -->
 
 <p align="center">
-📍 Cali, Colombia <br>
-🎓 Systems Engineering Student at Universidad Icesi <br>
-💡 Passionate about Backend Development, DevOps and Scalable Systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Alejandro+Amu+Garc%C3%ADa;Backend+Developer;Systems+Engineering+Student;DevOps+%26+Distributed+Systems+Enthusiast"/>
+</p>
+
+<!-- VISITOR COUNTER -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=alejoamu&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I am a **Systems Engineering student at Universidad Icesi** with a strong interest in **backend development, distributed systems and DevOps practices**.
+🎓 Systems Engineering Student at **Universidad Icesi**  
+📍 Cali, Colombia  
 
-I enjoy designing and developing **scalable software solutions**, working mainly with **Java, Spring Boot, Python and Docker**.
+I am passionate about **backend development, distributed systems, DevOps and scalable architectures**.
 
-Currently, I work as a **Teaching Assistant and Academic Tutor**, helping students understand programming, algorithms and software engineering concepts. This role has strengthened my **communication, leadership and problem-solving skills**.
+I enjoy building software solutions using technologies such as:
 
-I am always looking for opportunities to **learn new technologies, contribute to impactful projects and collaborate with international teams**.
+- Java
+- Spring Boot
+- Python
+- Docker
 
----
+Currently I work as a **Teaching Assistant and Academic Tutor**, helping students strengthen their programming and software engineering skills.
 
-## 🧠 Areas of Interest
-
-- Backend Development
-- Distributed Systems
-- DevOps & Cloud Infrastructure
-- Cybersecurity
-- Software Architecture
-- Artificial Intelligence Applications
+My goal is to **develop scalable systems and contribute to impactful projects**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Tech Radar
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=java" height="40"/>
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
 <img src="https://skillicons.dev/icons?i=js" height="40"/>
@@ -44,9 +44,9 @@ I am always looking for opportunities to **learn new technologies, contribute to
 <img src="https://skillicons.dev/icons?i=css" height="40"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=spring" height="40"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
 <img src="https://skillicons.dev/icons?i=django" height="40"/>
@@ -54,118 +54,119 @@ I am always looking for opportunities to **learn new technologies, contribute to
 
 ### 🗄️ Databases
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 </p>
 
-### 🧰 DevOps & Tools
+### ⚡ DevOps
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" height="40"/>
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" height="40"/>
-<img src="https://skillicons.dev/icons?i=vercel" height="40"/>
-</p>
-
-### 🧑‍💻 Development Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-<img src="https://skillicons.dev/icons?i=figma" height="40"/>
-<img src="https://skillicons.dev/icons?i=notion" height="40"/>
-<img src="https://skillicons.dev/icons?i=trello" height="40"/>
 </p>
 
 ---
 
-## 📚 Experience
+# 🚀 Featured Projects
 
-### 🎓 Universidad Icesi
+## 📊 Human Activity Recognition System
 
-**Teaching Assistant – Operating Systems**  
-Helping review assignments, labs and exams while providing feedback to improve student performance.
+Desktop application for **video annotation and activity recognition**.
 
-**Academic Tutor – Systems Engineering Program**  
-Supporting more than **60 students** in subjects such as:
+Technologies:
 
-- Algorithms and Programming
-- Software Engineering
-- Discrete Structures
-- Computing Fundamentals
-
-This experience has strengthened my **technical mentoring and communication skills**.
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Human Activity Recognition System
-Desktop application built with **Python, PyQt5 and MediaPipe** for **video annotation and physical activity analysis**.
+Python  
+PyQt5  
+MediaPipe  
 
 Features:
-- Real-time video capture
+
+- Real-time video processing
 - Human pose detection
 - Activity classification
-- Visual annotation interface
+- Annotation interface
 
 ---
 
-### ⚽ Intelligent Soccer Match Prediction System
-Expert system using **rule-based reasoning and Bayesian models** to predict soccer match outcomes based on:
+## ⚽ Soccer Match Prediction System
+
+Expert system using **Bayesian models** to predict soccer match outcomes.
+
+Technologies:
+
+Python  
+pgmpy  
+
+Factors analyzed:
 
 - Team performance
 - Weather conditions
 - Player injuries
 
-Technologies used:
-- Python
-- pgmpy
-- Statistical modeling
-
 ---
 
-### 🧾 Financial System Architecture for Retail
-Design of a scalable architecture for **pricing services in a clothing store ERP**, including:
+## 🧾 Retail Pricing Architecture
+
+Design of a scalable architecture for **pricing services in a retail ERP system**.
+
+Features:
 
 - Base prices
 - Promotional prices
-- Customer-specific pricing
+- Customer-specific prices
 
-Architecture concepts:
-- Hexagonal Architecture
-- Microservices readiness
-- Scalable pricing engine
+Architecture:
+
+Hexagonal Architecture  
+Scalable services  
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alejoamu&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alejoamu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoamu&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoamu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Activity
+# 🔥 GitHub Activity
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alejoamu&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=alejoamu&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 👾 Pacman Contribution Graph
 
-<p align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejoamu/alejoamu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejoamu/alejoamu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alejoamu/alejoamu/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+# 📈 GitHub Metrics Dashboard
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/alejoamu/alejoamu/main/github-metrics.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
 
 <a href="https://www.linkedin.com/in/alejoamu">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -183,22 +184,22 @@ Architecture concepts:
 
 ---
 
-## 🎯 Current Learning Goals
+# 🎯 Current Learning Goals
 
 - Kubernetes
-- Microservices Architecture
-- Cloud Infrastructure
+- Microservices architecture
+- Cloud infrastructure
 - Advanced DevOps practices
 
 ---
 
-## ⚡ Fun Facts
+# ⚡ Fun Facts
 
-- 🎸 I enjoy playing **drums and guitar**
-- ⚽ Soccer enthusiast
-- 🎥 I create **tech content for YouTube and TikTok**
-- 📚 I enjoy teaching and mentoring programming students
+🎸 I enjoy playing **drums and guitar**  
+⚽ Soccer enthusiast  
+🎥 I create **tech content for YouTube and TikTok**  
+📚 I enjoy teaching programming  
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+⭐ Feel free to explore my repositories and connect with me!
